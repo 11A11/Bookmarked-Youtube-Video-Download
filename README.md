@@ -1,2 +1,4 @@
 # BookmarkedVideoMP3Download
-Requirements: youtube-dl (https://github.com/rg3/youtube-dl)
+
+Extracts mp3 version of all bookmarked youtube videos.
+Requires youtube-dl
